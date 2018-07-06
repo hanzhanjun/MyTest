@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{C5DB3189-34DD-4E54-9AB8-08A10DC08DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlHelpCore", "SqlHelpCore\SqlHelpCore.csproj", "{8C20CA40-1DE0-4372-9017-9A43F62CA0F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helpClass", "helpClass\helpClass.csproj", "{73F2E041-F058-4660-BDA9-567C75041EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis", "Redis\Redis.csproj", "{86403AEC-48BD-4624-92EA-C00413FD8056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5DB3189-34DD-4E54-9AB8-08A10DC08DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DB3189-34DD-4E54-9AB8-08A10DC08DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DB3189-34DD-4E54-9AB8-08A10DC08DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DB3189-34DD-4E54-9AB8-08A10DC08DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C20CA40-1DE0-4372-9017-9A43F62CA0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C20CA40-1DE0-4372-9017-9A43F62CA0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C20CA40-1DE0-4372-9017-9A43F62CA0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C20CA40-1DE0-4372-9017-9A43F62CA0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F2E041-F058-4660-BDA9-567C75041EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F2E041-F058-4660-BDA9-567C75041EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F2E041-F058-4660-BDA9-567C75041EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F2E041-F058-4660-BDA9-567C75041EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86403AEC-48BD-4624-92EA-C00413FD8056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86403AEC-48BD-4624-92EA-C00413FD8056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86403AEC-48BD-4624-92EA-C00413FD8056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86403AEC-48BD-4624-92EA-C00413FD8056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+
+2018-07-04 18:39:13,249 [12] ERROR DEFAULT_LOGGER - 到值类型“System.DateTime”的强制转换失败，因为具体化值为 null。结果类型的泛型参数或查询必须使用可以为 null 的类型。
+System.InvalidOperationException: 到值类型“System.DateTime”的强制转换失败，因为具体化值为 null。结果类型的泛型参数或查询必须使用可以为 null 的类型。
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   在 lambda_method(Closure , Shaper )
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   在 System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   在 helpClass.Utils.QueryableExtension.ToListOrDefault[T](IQueryable`1 source) 位置 F:\AdminTEL\html5学习\helpClass\Utils\QueryableExtension.cs:行号 13
+   在 SqlHelpCore.Application.Impl.AdministratorService.GetList(Expression`1 expression, Int32 page, Int32 rows) 位置 F:\AdminTEL\html5学习\SqlHelpCore\Application\Impl\AdministratorService.cs:行号 149
+   在 Castle.Proxies.Invocations.IAdministratorService_GetList.InvokeMethodOnTarget()
+   在 Castle.DynamicProxy.AbstractInvocation.Proceed()
+   在 SqlHelpCore.Interception.ExeceptionInterceptor.Intercept(IInvocation invocation) 位置 F:\AdminTEL\html5学习\SqlHelpCore\Interception\ExeceptionInterceptor.cs:行号 23
+
+2018-07-04 18:39:45,893 [10] ERROR DEFAULT_LOGGER - 到值类型“System.DateTime”的强制转换失败，因为具体化值为 null。结果类型的泛型参数或查询必须使用可以为 null 的类型。
+System.InvalidOperationException: 到值类型“System.DateTime”的强制转换失败，因为具体化值为 null。结果类型的泛型参数或查询必须使用可以为 null 的类型。
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   在 lambda_method(Closure , Shaper )
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   在 System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   在 helpClass.Utils.QueryableExtension.ToListOrDefault[T](IQueryable`1 source) 位置 F:\AdminTEL\html5学习\helpClass\Utils\QueryableExtension.cs:行号 13
+   在 SqlHelpCore.Application.Impl.AdministratorService.GetList(Expression`1 expression, Int32 page, Int32 rows) 位置 F:\AdminTEL\html5学习\SqlHelpCore\Application\Impl\AdministratorService.cs:行号 149
+   在 Castle.Proxies.Invocations.IAdministratorService_GetList.InvokeMethodOnTarget()
+   在 Castle.DynamicProxy.AbstractInvocation.Proceed()
+   在 SqlHelpCore.Interception.ExeceptionInterceptor.Intercept(IInvocation invocation) 位置 F:\AdminTEL\html5学习\SqlHelpCore\Interception\ExeceptionInterceptor.cs:行号 23

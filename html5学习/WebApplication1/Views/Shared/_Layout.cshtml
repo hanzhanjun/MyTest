@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link rel="stylesheet" href="~/content/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/content/dist/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/content/dist/css/ionicons.min.css">
+    <link rel="stylesheet" href="~/content/plugins/datatables/dataTables.bootstrap.css">
+    <link rel="stylesheet" href="~/content/dist/css/AdminLTE.min.css">
+    <link rel="stylesheet" href="~/content/dist/css/skins/all-skins.min.css">  
+    <link rel="shortcut icon" type="image/x-icon" href="~/favicon.ico"  media="screen" />
+    <link rel="stylesheet" href="~/content/plugins/iCheck/all.css">
+    <style type="text/css">
+        html {
+            overflow: hidden;
+        }
+    </style>
+
+  
+   
+   
+    <!-- jQuery -->
+    <script src="~/content/plugins/jQuery/jquery-2.2.3.min.js"></script>
+
+    <script src="~/content/bootstrap/js/bootstrap.min.js"></script>
+
+    <script src="~/content/plugins/datatables/jquery.dataTables.min.js"></script>
+
+    <script src="~/content/plugins/datatables/dataTables.bootstrap.min.js"></script>
+
+    <script src="~/content/plugins/slimScroll/jquery.slimscroll.min.js"></script>
+
+    <script src="~/content/plugins/fastclick/fastclick.js"></script>
+
+    <script src="~/content/dist/js/app.js"></script>
+
+    <script src="~/content/dist/js/demo.js"></script>
+
+    <script src="~/content/dist/js/app_iframe.js"></script>
+
+    <script src="~/Scripts/lib/jquery.li.min.js"></script>
+
+    <script src="~/content/plugins/iCheck/icheck.min.js"></script>
+  
+    @RenderSection("Header", false)
+    <title>@ViewBag.Title</title>
+</head>
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        @RenderBody()
+    </div>
+</body>
+</html>

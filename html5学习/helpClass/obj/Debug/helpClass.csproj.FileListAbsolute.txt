@@ -1,0 +1,9 @@
+F:\AdminTEL\html5学习\helpClass\bin\Debug\helpClass.dll
+F:\AdminTEL\html5学习\helpClass\bin\Debug\helpClass.pdb
+F:\AdminTEL\html5学习\helpClass\bin\Debug\log4net.dll
+F:\AdminTEL\html5学习\helpClass\bin\Debug\Newtonsoft.Json.dll
+F:\AdminTEL\html5学习\helpClass\bin\Debug\ThoughtWorks.QRCode.dll
+F:\AdminTEL\html5学习\helpClass\bin\Debug\log4net.xml
+F:\AdminTEL\html5学习\helpClass\bin\Debug\Newtonsoft.Json.xml
+F:\AdminTEL\html5学习\helpClass\obj\Debug\helpClass.dll
+F:\AdminTEL\html5学习\helpClass\obj\Debug\helpClass.pdb
