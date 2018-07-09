@@ -12,3 +12,17 @@ F:\AdminTEL\html5学习\Redis\bin\Debug\Newtonsoft.Json.xml
 F:\AdminTEL\html5学习\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
 F:\AdminTEL\html5学习\Redis\obj\Debug\Redis.dll
 F:\AdminTEL\html5学习\Redis\obj\Debug\Redis.pdb
+D:\MyLearnProject\html5学习\Redis\bin\Debug\Redis.dll
+D:\MyLearnProject\html5学习\Redis\bin\Debug\Redis.pdb
+D:\MyLearnProject\html5学习\Redis\bin\Debug\helpClass.dll
+D:\MyLearnProject\html5学习\Redis\bin\Debug\log4net.dll
+D:\MyLearnProject\html5学习\Redis\bin\Debug\StackExchange.Redis.dll
+D:\MyLearnProject\html5学习\Redis\bin\Debug\Newtonsoft.Json.dll
+D:\MyLearnProject\html5学习\Redis\bin\Debug\ThoughtWorks.QRCode.dll
+D:\MyLearnProject\html5学习\Redis\bin\Debug\helpClass.pdb
+D:\MyLearnProject\html5学习\Redis\bin\Debug\log4net.xml
+D:\MyLearnProject\html5学习\Redis\bin\Debug\StackExchange.Redis.xml
+D:\MyLearnProject\html5学习\Redis\bin\Debug\Newtonsoft.Json.xml
+D:\MyLearnProject\html5学习\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
+D:\MyLearnProject\html5学习\Redis\obj\Debug\Redis.dll
+D:\MyLearnProject\html5学习\Redis\obj\Debug\Redis.pdb

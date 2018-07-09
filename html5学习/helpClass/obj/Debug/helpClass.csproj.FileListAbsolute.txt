@@ -7,3 +7,13 @@ F:\AdminTEL\html5学习\helpClass\bin\Debug\log4net.xml
 F:\AdminTEL\html5学习\helpClass\bin\Debug\Newtonsoft.Json.xml
 F:\AdminTEL\html5学习\helpClass\obj\Debug\helpClass.dll
 F:\AdminTEL\html5学习\helpClass\obj\Debug\helpClass.pdb
+D:\MyLearnProject\html5学习\helpClass\bin\Debug\helpClass.dll
+D:\MyLearnProject\html5学习\helpClass\bin\Debug\helpClass.pdb
+D:\MyLearnProject\html5学习\helpClass\bin\Debug\log4net.dll
+D:\MyLearnProject\html5学习\helpClass\bin\Debug\Newtonsoft.Json.dll
+D:\MyLearnProject\html5学习\helpClass\bin\Debug\ThoughtWorks.QRCode.dll
+D:\MyLearnProject\html5学习\helpClass\bin\Debug\log4net.xml
+D:\MyLearnProject\html5学习\helpClass\bin\Debug\Newtonsoft.Json.xml
+D:\MyLearnProject\html5学习\helpClass\obj\Debug\helpClass.csprojResolveAssemblyReference.cache
+D:\MyLearnProject\html5学习\helpClass\obj\Debug\helpClass.dll
+D:\MyLearnProject\html5学习\helpClass\obj\Debug\helpClass.pdb
