@@ -2232,10 +2232,12 @@ function activeTabByPageId(pageId) {
     $(".menu_tab").removeClass("active");
     $("#tab-content").find(".active").removeClass("active");
     //激活TAB
-    var $title = findTabTitle(pageId).addClass('active');
-    findTabPanel(pageId).addClass("active");
-    // scrollToTab($('.menu_tab.active'));
-    scrollToTab($title[0]);
+    if (pageId != null) {
+        var $title = findTabTitle(pageId).addClass('active');
+        findTabPanel(pageId).addClass("active");
+        // scrollToTab($('.menu_tab.active'));
+        scrollToTab($title[0]);
+    }    
 }
 
 $(function () {

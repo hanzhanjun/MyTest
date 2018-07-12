@@ -43,9 +43,8 @@ namespace WebApplication1.Controllers
                     CreateTime = DateTime.Now,
                     Qq = model.Qq,
                     Moblie = model.Mobile
-                };
-                var old = adminService.GetUser(model.Id.Value);
-                if (old == null)
+                };           
+                if (model.Id == null)
                 {
                     if (adminService.AddAdmin(user))
                     {
